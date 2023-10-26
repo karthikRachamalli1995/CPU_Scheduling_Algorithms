@@ -1,0 +1,690 @@
+********************************************************************* Test Case 1 for 5 processes Start *********************************************************************
+Test Case 1
+
+Number of Processes: 5
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 6.6
+Average Turnaround Time: 11.0
+Average Response Time: 6.6
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 4.8
+Average Turnaround Time: 9.2
+Average Response Time: 4.8
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 4.8
+Average Turnaround Time: 9.2
+Average Response Time: 4.8
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 7.4
+Average Turnaround Time: 11.8
+Average Response Time: 3.4
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 4.8
+Average Turnaround Time: 9.2
+Average Response Time: 4.8
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+	* Priority Scheduling
+	* Priority Round Robin
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+	* Priority Scheduling
+	* Priority Round Robin
+********************************************************************* Test Case 1 for 5 processes Finish *********************************************************************
+********************************************************************* Test Case 2 for 5 processes Start *********************************************************************
+Test Case 2
+
+Number of Processes: 5
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 5.4
+Average Turnaround Time: 8.4
+Average Response Time: 5.4
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 4.0
+Average Turnaround Time: 7.0
+Average Response Time: 4.0
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 7.8
+Average Turnaround Time: 10.8
+Average Response Time: 7.8
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 5.4
+Average Turnaround Time: 8.4
+Average Response Time: 5.4
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 7.8
+Average Turnaround Time: 10.8
+Average Response Time: 7.8
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* SJF (Shortest Job First)
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 2 for 5 processes Finish *********************************************************************
+********************************************************************* Test Case 3 for 5 processes Start *********************************************************************
+Test Case 3
+
+Number of Processes: 5
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 6.2
+Average Turnaround Time: 9.2
+Average Response Time: 6.2
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 4.0
+Average Turnaround Time: 7.0
+Average Response Time: 4.0
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 7.4
+Average Turnaround Time: 10.4
+Average Response Time: 7.4
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 7.6
+Average Turnaround Time: 10.6
+Average Response Time: 4.6
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 7.4
+Average Turnaround Time: 10.4
+Average Response Time: 7.4
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* SJF (Shortest Job First)
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 3 for 5 processes Finish *********************************************************************
+********************************************************************* Test Case 4 for 5 processes Start *********************************************************************
+Test Case 4
+
+Number of Processes: 5
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 4.4
+Average Turnaround Time: 7.4
+Average Response Time: 4.4
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 4.0
+Average Turnaround Time: 7.0
+Average Response Time: 4.0
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 7.4
+Average Turnaround Time: 10.4
+Average Response Time: 7.4
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 6.0
+Average Turnaround Time: 9.0
+Average Response Time: 3.2
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 7.4
+Average Turnaround Time: 10.4
+Average Response Time: 7.4
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 4 for 5 processes Finish *********************************************************************
+********************************************************************* Test Case 5 for 5 processes Start *********************************************************************
+Test Case 5
+
+Number of Processes: 5
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 6.2
+Average Turnaround Time: 9.2
+Average Response Time: 6.2
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 4.0
+Average Turnaround Time: 7.0
+Average Response Time: 4.0
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 7.4
+Average Turnaround Time: 10.4
+Average Response Time: 7.4
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 6.2
+Average Turnaround Time: 9.2
+Average Response Time: 6.2
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 7.4
+Average Turnaround Time: 10.4
+Average Response Time: 7.4
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* SJF (Shortest Job First)
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 5 for 5 processes Finish *********************************************************************
+********************************************************************* Test Case 6 for 10 processes Start *********************************************************************
+Test Case 6
+
+Number of Processes: 10
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 19.4
+Average Turnaround Time: 24.9
+Average Response Time: 19.4
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 16.5
+Average Turnaround Time: 22.0
+Average Response Time: 16.5
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 21.4
+Average Turnaround Time: 26.9
+Average Response Time: 21.4
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 28.7
+Average Turnaround Time: 34.2
+Average Response Time: 8.2
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 21.4
+Average Turnaround Time: 26.9
+Average Response Time: 21.4
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 6 for 10 processes Finish *********************************************************************
+********************************************************************* Test Case 7 for 10 processes Start *********************************************************************
+Test Case 7
+
+Number of Processes: 10
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 26.3
+Average Turnaround Time: 31.8
+Average Response Time: 26.3
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 16.5
+Average Turnaround Time: 22.0
+Average Response Time: 16.5
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 26.1
+Average Turnaround Time: 31.6
+Average Response Time: 26.1
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 31.3
+Average Turnaround Time: 36.8
+Average Response Time: 15.5
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 26.1
+Average Turnaround Time: 31.6
+Average Response Time: 26.1
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 7 for 10 processes Finish *********************************************************************
+********************************************************************* Test Case 8 for 10 processes Start *********************************************************************
+Test Case 8
+
+Number of Processes: 10
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 25.3
+Average Turnaround Time: 30.8
+Average Response Time: 25.3
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 16.5
+Average Turnaround Time: 22.0
+Average Response Time: 16.5
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 24.9
+Average Turnaround Time: 30.4
+Average Response Time: 24.9
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 30.8
+Average Turnaround Time: 36.3
+Average Response Time: 12.5
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 24.9
+Average Turnaround Time: 30.4
+Average Response Time: 24.9
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 8 for 10 processes Finish *********************************************************************
+********************************************************************* Test Case 9 for 10 processes Start *********************************************************************
+Test Case 9
+
+Number of Processes: 10
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 20.2
+Average Turnaround Time: 25.7
+Average Response Time: 20.2
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 16.5
+Average Turnaround Time: 22.0
+Average Response Time: 16.5
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 23.8
+Average Turnaround Time: 29.3
+Average Response Time: 23.8
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 26.1
+Average Turnaround Time: 31.6
+Average Response Time: 15.9
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 23.8
+Average Turnaround Time: 29.3
+Average Response Time: 23.8
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 9 for 10 processes Finish *********************************************************************
+********************************************************************* Test Case 10 for 10 processes Start *********************************************************************
+Test Case 10
+
+Number of Processes: 10
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 22.1
+Average Turnaround Time: 27.6
+Average Response Time: 22.1
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 16.5
+Average Turnaround Time: 22.0
+Average Response Time: 16.5
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 28.1
+Average Turnaround Time: 33.6
+Average Response Time: 28.1
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 29.9
+Average Turnaround Time: 35.4
+Average Response Time: 8.3
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 28.1
+Average Turnaround Time: 33.6
+Average Response Time: 28.1
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 10 for 10 processes Finish *********************************************************************
+********************************************************************* Test Case 11 for 15 processes Start *********************************************************************
+Test Case 11
+
+Number of Processes: 15
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 42.13333333333333
+Average Turnaround Time: 50.13333333333333
+Average Response Time: 42.13333333333333
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 37.333333333333336
+Average Turnaround Time: 45.333333333333336
+Average Response Time: 37.333333333333336
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 52.53333333333333
+Average Turnaround Time: 60.53333333333333
+Average Response Time: 52.53333333333333
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 63.0
+Average Turnaround Time: 71.0
+Average Response Time: 23.266666666666666
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 52.53333333333333
+Average Turnaround Time: 60.53333333333333
+Average Response Time: 52.53333333333333
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 11 for 15 processes Finish *********************************************************************
+********************************************************************* Test Case 12 for 15 processes Start *********************************************************************
+Test Case 12
+
+Number of Processes: 15
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 48.13333333333333
+Average Turnaround Time: 56.13333333333333
+Average Response Time: 48.13333333333333
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 37.333333333333336
+Average Turnaround Time: 45.333333333333336
+Average Response Time: 37.333333333333336
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 63.333333333333336
+Average Turnaround Time: 71.33333333333333
+Average Response Time: 63.333333333333336
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 65.73333333333333
+Average Turnaround Time: 73.73333333333333
+Average Response Time: 29.333333333333332
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 63.333333333333336
+Average Turnaround Time: 71.33333333333333
+Average Response Time: 63.333333333333336
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
+
+	* SJF (Shortest Job First)
+********************************************************************* Test Case 12 for 15 processes Finish *********************************************************************
+********************************************************************* Test Case 13 for 15 processes Start *********************************************************************
+Test Case 13
+
+Number of Processes: 15
+
+Performance Metrics:
+
+
+First Come First Serve Scheduling Algorithm:
+
+Average Waiting Time: 50.2
+Average Turnaround Time: 58.2
+Average Response Time: 50.2
+
+Shortest Job First Scheduling Algorithm:
+
+Average Waiting Time: 37.333333333333336
+Average Turnaround Time: 45.333333333333336
+Average Response Time: 37.333333333333336
+
+Priority Scheduling Algorithm:
+
+Average Waiting Time: 53.8
+Average Turnaround Time: 61.8
+Average Response Time: 53.8
+
+Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 68.53333333333333
+Average Turnaround Time: 76.53333333333333
+Average Response Time: 19.666666666666668
+
+Priority Round Robin Scheduling Algorithm:
+
+Average Waiting Time: 53.8
+Average Turnaround Time: 61.8
+Average Response Time: 53.8
+
+Best Performing Algorithm(s) based on Metrics:
+
+
+Average Response Time:
+
+	* Round Robin
+
+Average Waiting Time:
+
+	* SJF (Shortest Job First)
+
+Average Turnaround Time:
